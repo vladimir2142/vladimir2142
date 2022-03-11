@@ -33,13 +33,14 @@
 <li>C#-Продвинутый уровень\ есть опыт разработки - WPF (xaml)</li>
 <li>SQL-Не углубленные знания</li>
 <li>Web разработка-HTML, JavaScript, Bootstrap, React</li>
-<li>Python - Начальный уровень  </li>
+<li>Python - Продвинутый уровень   </li>
 </ol>
 <h2>Софт</h2>
 <ol>
 <li>C#-Работаю в JB Rider, также Visual Studio</li>
 <li>SQL-Oracle Live</li>
 <li>Языки веб разработки-VS Code
+<li> Python - VS code, .ssh
 </ol>
 <h2>Навыки</h2>
 <ol>
@@ -63,7 +64,15 @@
 
 Технологии: HTML,CSS, JS
 
-Дата начала: 01.09.2021 - по настоящий момент (8 месяцев)
+Дата начала: 01.09.2020 - 15.06.2021 (8 месяцев)
 
+</p>
+<strong>RigIntel </strong>  
+
+<p> Должность: Python программист  
+
+Технологии: Python, PostgreSQL, MongoDB, SQL, HTML5, JavaScript, React, .ssh, Git, fast-api, Flask, HTML, ant design, Английский язык, JSON API, Rest-api, Sqlalchemy, Redis, jwt, async, Асинхронное программирование, разработка нагруженных систем, CSS, Адаптивная верстка, WebSocket, Клиент-серверная разработка, API, telegram, aio, aiohttp
+
+Дата начала: 15.06.2021 - по настоящий момент 
 
 </p>
